@@ -2,7 +2,7 @@
 
 ## 🧠 Concept Summary
 
-**MacroLens** is a data-driven financial dashboard that visualizes long-term macroeconomic trends — especially **retirement-related capital flows** and **demographic pressures** — to help investors understand structural market risk and opportunity.
+**RetireRatio** is a data-driven financial dashboard that visualizes long-term macroeconomic trends — especially **retirement-related capital flows** and **demographic pressures** — to help investors understand structural market risk and opportunity.
 
 The core focus is on:
 - **401(k) and IRA contribution vs. withdrawal behavior**
@@ -129,7 +129,7 @@ This project is for long-term thinkers and data-driven investors, not real-time 
 
 ## ✅ Final Notes
 
-MacroLens is a long-term, niche project with compounding value. The MVP will focus on:
+RetireRatio is a long-term, niche project with compounding value. The MVP will focus on:
 - **Retirement system stress**
 - **Demographic realities**
 - **Data-backed investing perspective**
